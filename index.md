@@ -1,6 +1,8 @@
 # DSC180A Methodology 5 Pages Site
 Eric Stratford
+
 estratford@ucsd.edu
+
 B15, Phi Nguyen
 
 # Project Proposal Questions
